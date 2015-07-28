@@ -1,15 +1,12 @@
-MindPlug
-========
+lepower - hardware
+==================
 
 
-This repository holds code & documentation relative to the MindPlug project.
+This repository holds code & documentation relative to the lepower plug.
 
 
 
 Contributors
 ------------
 
-* [Alexis Polti][apolti]
-* [Victor Perron][vperron]
-
-
+- lepower team
